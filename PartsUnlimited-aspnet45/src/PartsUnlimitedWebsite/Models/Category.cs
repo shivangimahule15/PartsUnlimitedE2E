@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-// first code today 12/22/2020
+// first code today 12/22/2020 pull time
 namespace PartsUnlimited.Models
 {
     public class Category
